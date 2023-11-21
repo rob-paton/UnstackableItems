@@ -1,0 +1,4 @@
+name: UnstackableItems
+version: '1.0-SNAPSHOT'
+main: com.github.rpaton.unstackableitems.UnstackableItems
+api-version: '1.20'
